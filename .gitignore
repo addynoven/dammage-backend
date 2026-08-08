@@ -31,3 +31,8 @@ yolov8n-waste-12cls-best_int8.tflite
 
 # Logs
 *.log
+
+node_modules/
+.env
+target/
+.venv/
